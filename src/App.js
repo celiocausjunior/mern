@@ -1,7 +1,9 @@
 import React from 'react';
-
-function App() {
-  return <h1>Let's start!</h1>;
+import { BrowserRouter as Router} from 'react-router-dom';
+const App =() => {
+  return <Router>
+    
+  </Router>
 }
 
 export default App;
